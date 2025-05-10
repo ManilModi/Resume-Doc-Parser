@@ -1,0 +1,65 @@
+Akshay
+Angular Developer
+PROFILE
+2.5+ years of diversified experience in the field of Front-End
+Development. I am well versed with the concepts and
+implementations of HTML5, CSS3, SAAS, BootStrap4, JavaScript,
+AJAX, ES6, Flex, Typescript and Angular.
+My extensive knowledge of JavaScript has helped me to deliver
+complicated projects with ease.
+I have worked on different modules of Angular in my current
+project and I am confident to take on projects.
+I firmly believe in the concept of making my customers happy
+hence constantly thrive to give more attention to the details of any
+project.
+EXPERIENCE
+FRONT END DEVELOPER (2021 – Present)
+SKILL SET
+
+Angular
+TypeScript
+JavaScript
+HTML5
+CSS3
+Bootstrap-3 & 4
+Angular Material
+Responsive Site
+SASS
+TOOLS
+Visual Studio Code
+Photoshop
+Google FireBase
+W3C Validator
+
+Developer tool
+Agile methodology
+Font Awesome
+Git hub
+Projects
+https://www.innovatorspune.com/
+Designation: Worked as a Front-End Developer
+Milestone Achievement: Received a lot of appreciation from clients
+for smooth delivery of project.
+Responsibilities & Roles:
+Converted PSD into responsive HTML using Bootstrap
+Created interactions using JavaScript
+Responsible for browser and environment compatibility.
+Fixed bugs raised by QA team.
+banking and finance domain
+Designation: Worked as an Angular Developer.
+
+Milestone Achievement: Received a lot of appreciation from team
+for quick learning and implementation.
+Responsibilities & Roles:
+Created components for UI using Angular Material Library.
+Used Template driven form
+Used Reactive form for calculating the credit score of the user.
+Consumed HTTP API modules for binding data.
+Expertise At:
+Understanding tasks assigned to me and delivering best required.
+Adhering to established regulations and procedures of the
+organization.
+Good understanding of business logic and ability to work as an
+individual or in a team.
+Exceptional communication and presentation skills.
+

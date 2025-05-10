@@ -1,0 +1,329 @@
+Govind Rathod 
+Mobile: +91-9428708011 
+E-mail:  govind.rathod23@gmail.com 
+ 
+ 
+               ‘Android Developer Role’ 
+ 
+To secure a challenging and rewarding position as Android Developer with an established 
+organization that can utilize my skills, experience, practice my knowledge and past experiences. 
+  
+ 
+Profile 
+Expert in Enterprise and Mobile application development over 4.7+ years. Skilled at mentoring 
+team members, developing architecture, conceptual flow, design, and requirements. 
+Demonstrated ability to understand and improve legacy code and to become proficient at new 
+technologies quickly. 
+ 
+Experience 
+ 
+Sr.Developer, Reliance jio Infocomm LTD. ,Navi Mumbai,India- May 2016 to till 
+Sr.Developer, Tailored Solution, Ahmedabad, India - 2014-dec to 2016 mar 
+Developer, IndiaNIC InfoTech Ltd, Ahmedabad, India – 2011-Dec  to 2014-may 
+ 
+I have conceptualized, designed, developed and deployed various types of applications for 
+android based mobile phones. I have created handset specific user interface (UI) for mobile 
+phones and tablets and also researched on application acceptance and solicited feedback from 
+users to make the new and existing applications more user friendly. 
+ 
+Scholastics 
+ B.E (computer science): from government college Patan, 
+University  : Hemchandracharya North Gujarat University 
+Passed in july 2011 with  “First Class ” , 61.00% 
+ 
+ Diploma (Computer Engineering)  from A.V.P.T.I. , Rajkot 
+ Board  
+: Technical Examinations Board, Gandhinagar 
+ Passed in June 2008 with “First Class with Distinction”, 65.00% 
+ 
+10th ( S.S.C.) 
+Board: G.S.E.B., Gandhinagar    
+ 
+Passed in March 2005 with   “First Class with Distinction”, 71.00% 
+ 
+ 
+ 
+
+Technical Expertise 
+Programming Language    
+: Basic Java,  XML, (DOM, SAX Parsers), HTML/CSS, SQL. 
+Java/J2EE Technologies    
+: Android, Java Native Interface (JNI). 
+Database 
+ 
+ 
+   
+: MySQL, SQLite. 
+Operating System  
+ 
+:Windows, Linux, Mac 
+Testing And Integration Tools :Subversion(SVN), Ant, Robotium (Android), Git 
+Development Tools 
+  
+ : Eclipse, Android Studio 
+Hardware 
+ 
+ 
+  
+ : PCs, peripherals, network 
+ 
+Summary of work at JIO. 
+Working on GIS based Applications  
+ 
+Summary of work done at Tailored Solution. 
+ 
+ Body 360 : 
+        
+Project Brief 
+E-commerce  application for starting business on helth. 
+        
+Role 
+Key developer to designing to implementation all functionality. 
+ 
+ DQMessaging : 
+        
+Project Brief 
+A XMPP Chat based application, includes individuals and group chat both, additional articles 
+news and much  more. 
+        
+Role 
+Key developer to designing to implementation all functionality. 
+        
+ 
+       
+ 
+Summary of work done at IndiaNIC 
+  
+ Project 1 - The summit Radio (WAPS) 
+        
+Project Brief 
+WAPS Mobile application will allow users to play different radio station of US. and also gives 
+the facility to find the treatment centers and it’s information with map(Google and amezon 
+both),the functionality of Sharing on social networking included too. 
+        
+ 
+Technologies used within the project 
+Android 2.2 to Android 4.1 
+        
+Role 
+Key developer to implement WS parsing of treatment centers displaying maps,and sharing. 
+        
+Key Challenges and Results 
+Parsing the data and sharing. 
+       
+ 
+ 
+ 
+
+ Project 2 – myVirtualWallet 
+        
+Project Brief 
+Application is based on Deal coupon, share coupon, gift coupon, purchase, redeem, with all 
+functionality with location based. 
+ 
+Technologies used within the project 
+Android 2.3+, to 4.1 
+        
+Role 
+Developer to implement barcode scan, redeem coupon, gift coupon, map functionality, json 
+WS parsing 
+ 
+ Project 3 -geoWinks - find people you Like. 
+        
+Project Brief 
+Application purpose is find the anonymous  friends around you. 
+based on social application Share winks, send winks, private winks also based on location and 
+displayed on map find friends, suggest friends Chat with different friend and much more. 
+        
+ 
+Technologies used within the project 
+Android 2.3 to 4.1 
+        
+Role 
+I worked in team throughout development of application in team. 
+        
+Key Challenges and Results 
+Social type application first time. 
+ 
+ 
+ Project 4 –Cooper(Qwerky) 
+        
+Project Brief 
+Application purpose is current deals of shopping with redeem, download and  
+        
+ 
+Technologies used within the project 
+Android 2.3 to 4.1 
+        
+Role 
+I worked as a single developer  throughout development of application. 
+        
+Key Challenges and Results 
+Landscape and portrait UI support, with pagination pull to refresh. 
+      
+ 
+ Project 5 –WakeMe 
+        
+Project Brief 
+Special purpose of application is alarm based but alarm play as a audio streaming of user’s 
+voice  appointment. Maintain(synch) all appointments with calendar, record appointment, 
+and more.   
+        
+ 
+Technologies used within the project 
+Android 2.3 to 4.1 
+        
+Role 
+Development, UI, WS parsing implementation. 
+        
+Key Challenges and Results 
+XML parsing, audio streaming. 
+ 
+ 
+ 
+
+ Project 6 –Rigfinder 
+        
+Project Brief 
+Application purpose is for Machines position and its maintenance. 
+        
+ 
+Technologies used within the project 
+Android 2.3 to 4.1 
+        
+Role 
+Development, WS Parsing, UI implementation. 
+        
+Key Challenges and Results 
+Monthly and yearly Subscription. 
+ 
+ Project 7 –Sherloo 
+        
+Project Brief 
+Application purpose is like social app post message while you  want to be vitness/wictim any 
+accident case and all. Send message, post wall an all. 
+        
+ 
+Technologies used within the project 
+Android 2.3 to 4.1 
+        
+Role 
+Development, WS Parsing, UI implementation. 
+        
+Key Challenges and Results 
+Deal with fragments. 
+ 
+ Project 8 –Lost2Found 
+        
+Project Brief 
+Application purpose is for lost and found all types of items, persons With searching 
+functionality according the radius. Social sharing. 
+        
+ 
+Technologies used within the project 
+Android 2.3 to 4.1 
+        
+Role 
+Development, WS Parsing, UI implementation. 
+        
+Key Challenges and Results 
+Custom camera, Searching functionality. 
+ 
+ Project 9 –Lightning Offers 
+        
+Project Brief 
+Australian shopping deal based application. 
+        
+ 
+Technologies used within the project 
+Android 2.3 to 4.1 
+        
+Role 
+Development, WS Parsing, UI implementation. 
+       
+ 
+ 
+ 
+ 
+
+ Project 10 –Tourism Application 
+        
+Project Brief 
+Jammu Kashmir and Tamildadu tourism application with the proper location and travel 
+information. 
+        
+ 
+Technologies used within the project 
+Android 2.3 to 4.1 
+        
+Role 
+Development, Database maintain, UI implementation. 
+       
+Trainings project Attended in Diploma : 
+ 
+Title 
+ 
+: 
+industrial training 
+Duration 
+: 
+14 week 
+Trained for  : 
+Desktop supports, maintenance and network troubleshooting. 
+Organization : 
+hp ® 
+Site 
+ 
+: 
+AT reliance industries LTD. (Main refinery petro&chemi). jamnagar 
+ 
+Personal Dossier 
+ 
+Date of Birth  
+:  5thDec 1989 
+Permanent Address :  "A-8",Jagdamba flats, 
+  Jivraj Socity, 
+  Vejalpur, Ahmedabad-51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Gujarat. 
+ 
+Languages Known : English, Hindi, Gujarati 
+Marital status 
+: single   
+Nationality   
+: Indian  
+ 
+ 
+I hereby declare that all the information furnished above in the true to the best of my knowledge 
+and belief. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Govind Rathod 
+ 
+ 
+
