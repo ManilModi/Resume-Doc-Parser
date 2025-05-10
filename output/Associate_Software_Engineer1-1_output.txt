@@ -1,0 +1,68 @@
+SubAM
+FULLSTACK DEVELOPER
+OBJECTIVE
+B.Tech graduate seeking a Fullstack Developer, MEAN Stack
+Developer, or Software Engineer role. Possess strong expertise in
+Angular 16+, Node.js, Python, OOP principles, JavaScript,
+Bootstrap, HTML5, SCSS, MongoDB, and SQL. Excellent
+communication skills with a keen ability to understand and deliver
+on client requirements. A dedicated continuous learner, always
+eager to adopt new technologies, strategies, and tools to stay ahead
+in the ever-evolving tech landscape.
+SKILLS
+NodeJs Angular16
+OOPs programming Bootstrap
+Python Javascript HTML5 CSS
+Mongodb SQL
+.Net
+CERTIFICATION
+
+Angular 16,Node Js, Express, Bootstrap,
+Mongodb,SQL,web hosting
+Yew Technology 2023-07-05
+Angular Developer
+Python Developer
+Introduction computer centre 2023-02-09
+Python Developer
+TCS(national qualiﬁcation Test)
+TCS 2023-04-27
+Percentage -61%
+EXPERIENCE
+Full Stack developer
+Apr 2023 - Present
+
+Developed the code in backend as well as in frontend using
+technologies like Angular15+,.net(Only For API building),Nodejs,
+bootstrap, express, mongodb,SQL
+PROJECTS
+Hospital Management System
+Fullstack Developer Apr 2024 - Present
+Created Landing page for the user where user booking the
+appointment of various departments of doctors. Created one search
+box for searching the doctor list[ show department list in a drop-
+down].
+Created one Admin routing page for the admin [ where admin
+registration all doctors list and show the all patients name] then
+created the one another routing page for doctor when doctor see all
+appointment date and time with patient name.
+beta.greenmobility.tech
+Fullstack Developer Dec 2023 - Present
+Working on live project of GreenLine Mobility.using Technologies
+Angular 15,.net(Only For API building),SQL database
+CURD operation
+
+Full stack developer Apr 2023 - Jul 2023
+CURD Operation (create, update, delete the user data and read the
+user details).
+Technologies used: Angular 15, bootstrap for designing the
+webpage,nodejs for API, mongodb for database.
+One to One real time chat application
+Full stack developer Aug 2023 - Oct 2023
+Created the real time live chat application I have shown in this
+project (the online user name in the left side,searching box with
+user name, sending message to the user, sending emoji,sending
+image in png and jpg format and also show the time and date).
+Technologies used: Angular Js15, bootstrap for designing the
+webpage,nodejs, mongodb,socket.io for showing the online user
+name and sending message without refreshing the page.
+

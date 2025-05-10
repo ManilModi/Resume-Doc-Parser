@@ -1,0 +1,87 @@
+Ajay
+SUMMARY
+I'm an optimistic and proactive Angular Developer with a passion
+for delivering high-quality solutions. I have a strong foundation in
+front-end development, coupled with a knack for problem-solving
+and embracing new challenges with a positive attitude. With 5
+years of experience, I'm committed to continuous learning and
+adapting to emerging technologies.
+EXPERIENCE
+Angular Developer
+Developing and maintaining Angular applications, ensuring high
+performance, responsiveness, and usability.
+Collaborating with a team to translate design mockups and
+wireframes into functional Angular components.
+Integrating backend APIs and services into Angular applications to
+provide seamless functionality.
+Implementing UI/UX designs and ensuring consistency across
+
+different projects.
+Debugging and fixing issues reported by QA or end-users, ensuring
+smooth user experience.
+Participating in code reviews, providing feedback, and suggesting
+improvements to maintain code quality.
+January 2019 - Present, Pune
+Keeping up-to-date with the latest Angular trends, best practices,
+and technologies to continuously improve development processes.
+Assisting in the planning and estimation of project timelines and
+tasks.
+PROJECTS
+Finitee
+January 2024 -May 2024
+Improved job portal and chat with dynamic data and real-time
+updates.
+Built cross-platform mobile apps using Ionic and Angular.
+Collaborated on API contracts for seamless communication.
+Ensured frontend-backend integration for smooth functionality.
+
+Heat Fleet
+https://heatfleet.com/ • August 2023 - December 2023
+Implementing UIs with Angular, ensuring responsiveness, and
+integrating data APIs.
+Creating reusable components, customizing for design and function.
+Setting up seamless routing, implementing security measures.
+Managing state with Angular services, integrating backend APIs,
+handling form submissions.
+Writing tests, debugging, collaborating, and ensuring
+documentation and CI/CD processes.
+Virus Geeks
+https://virusgeeks.com/ • January 2023 - August 2023
+Adding the New features and Functionalities
+Fixing bugs
+Fairy Trail
+January 2022 - December 2022
+Converting into Ionic 5 and Angular 12
+PWA application
+Daily deployment
+
+Fork Fright
+https://forkfreight.com/ • December 2020 - December 2021
+Convert Angular JS pulse to Angular 12
+Setting up single-page architecture
+Adding new functionalities
+Integrated third-party APIs to expand system capabilities
+Ensured cross-browser and cross-device compatibility for the
+application, optimizing the user experience across various platforms
+and devices.
+Lotto Social
+https://app.lottosocial.com/ • January 2020 - November 2020
+Backend development
+Check Rolebar Tool and fixed it
+Whole indication flow
+Optimization of data application
+SKILLS
+
+Languages
+HTML5, CSS3, JavaScript, Typescript, Nodejs
+Framework
+Angular 17, Express, Ionic 5, Cloud function, Bootstrap, Node.js
+Database
+Firebase, PostgreSQL, MySQL, MongoDB
+Web Services
+Rest API, AWS, GCP
+Stack Frontend IDE
+Visual studio
+Integration of Third-party API Google segment, one signal, GTM
+Operating Systems Windows
+

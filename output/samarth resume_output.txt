@@ -1,0 +1,46 @@
+Samarth kariya
+ +91 8849753350
+# samarthkariya.3@gmail.com
++ Ahmedabad, Gujarat
+ð samarth kariya
+Summary
+As a Java Developer, I specializein web applicationdevelopment, particularlyin Java, Spring, andLiferay 7.4. Iprioritize
+collaboration and continual learning to deliver top-notch software solutions.
+Experience
+AIMDek Technologies PVT. LTD, Jr. Software Engineer
+• Developed and maintained backend applications using java, Spring Boot, and other re-
+lated technologies to meet project requirements.
+• Implemented RESTful APIs and web services using Spring Boot, facilitating seamless
+communication between frontend and backend systems.
+• Acquired hands-on experience with Spring Boot and Liferay, a popular Java framework
+for creating stand-alone, production-grade applications.
+• Participated in code reviews, ensuring adherence to coding standards, best practices,
+and performance optimization.
+• DevelopedandmaintainedmicroservicesusingSpringBoot, ensuringhighperformance
+and responsiveness to front-end requests.
+Ahmedabad, Gujarat
+Feb 2023 - Present
+Projects
+Stocks and Exchanges(Spring Boot)
+• Contributed significantly to the development of a complex web application resembling a stock market platform.
+Utilized microservice architecture for efficient system organization.
+• Used blockchain technology to enhance security and transparency in stock transfer and exchange transactions,
+ensuring seamless execution and reliability.
+• Designed and developed REST-based microservices using Spring Boot, with a focus on scalability and efficiency.
+Utilized Docker to containerize the services, ensuring portability and ease of deployment.
+• Used Spring Boot Actuator to monitor and manage the application in all environments.
+Housing Finance (Liferay 7.4)
+• Collaborated with a diverse team to develop and implement website upgrades for Housing Finance, leading to a
+10-20% increase in user engagement and a 10% decrease in bounce rate.
+• We have implemented the REST-Template technology to all our forms for data retrieval processes.
+• Improved the allocation logic for user data input fields, resulting in a 10-15% increase in leads.
+• Designed and deployed new web content features to enhance user experience, including interactive calculators
+and personalized financial tools.
+Technologies
+Skills: Java, Spring Boot, Liferay 7.4, SQL, Git, HTML, CSS, Sonar
+Software: Visual Studio, MYSQL Workbench , MongoDB Compass Eclipse, Intellij idea
+Education
+Bachelor of Engineering , V.V.P Engineering College
+• Major in Information Technology with CGPA: 9.32/10
+July. 2019 to May 2023
+

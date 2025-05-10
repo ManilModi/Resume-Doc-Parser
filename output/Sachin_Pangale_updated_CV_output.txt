@@ -1,0 +1,93 @@
+SACHIN PANGALE   
+Jr Java Developer   
+Gmail: pangale7171@gmail.com   
+Mobile: +917744034127, +918830673478   
+Address: Jalgaon, Maharashtra   
+Current location: Ahmedabad, Gujrat   
+         
+Public Profile:  linkedin.com/in/sachin-pangale-566710227      
+GitHub Profile:  https://github.com/sachinpangale15   
+   
+OBJECTIVE   
+Motivated Java Developer with a strong foundation in software development and a passion 
+for crafting efficient and scalable solutions. Seeking a challenging position to apply my Java 
+programming skills, collaborate with dynamic teams, and contribute to the development of 
+innovative software applications.   
+   
+PROFILE SUMMERY   
+Over 2+ years of professional experience in Java development, extensive experience with 
+Spring Boot, SQL, and web service development, proven ability to handle encryption, 
+decryption, and secure data transmission. 
+     
+EXPERIENCE   
+Tender 247, Ahmedabad.                                                                 Feb 2024 – Aug 2024   
+(Jr Java Developer)   
+• 
+Developed and maintained website services: Designed, implemented, and managed 
+website services ensuring optimal performance and user experience  
+ 
+Solu-Soft Solutions, Ahmedabad.                                                    Jan 2023 – Jan 2024   
+(Jr Java Developer)   
+• 
+CMS is OpenText cloud-based application.   
+• 
+The technology used is Spring Boot, React JS, Hibernate, RDBMS, MSSQL, Git.   
+• 
+Programming experience with SQL, JSON, XML, Postman, SoapUI.   
+ACL Digital, Mumbai.                                                                       May 2022 – Sept 2022   
+(Trainee Software Engineer)   
+• 
+Training provides by reliance in Advance C++ and C, Design pattern, Git, MYSQL  
+• 
+Developed and executed test procedure for software components.   
+   
+
+ 
+EDUCATION   
+Bachelor Of Electrical Engineering (CGPA – 7.26)                                    (May2020)   
+North Maharashtra University, Jalgaon.   
+   
+Diploma in Electrical Engineering (60.00%)                                              (May2017)   
+Maha. State Board Technical University, Mumbai     
+   
+SKILLS   
+Programming Languages: Core Java, J2EE 
+Frameworks: Spring, Spring MVC, Spring Boot,  
+Web Technologies: HTML, CSS, jQuery. 
+Database: MS-SQL Server, JDBC, MySQL  
+Web Services: RESTful, SOAP, JSON, XML, Swagger   
+Build Tools: Maven   
+Version Control: Git (GitHub)   
+Tools: Postman, SoapUI, JIRA 
+   
+PROJECT   
+1. CHCS (OpenText Project)   
+- 
+Worked on the development of a Policy Management System using the Case360 
+framework.   
+- 
+Developed code for various modules, enhancing the functionality and performance of 
+the system.   
+- 
+Implemented JSP layouts to improve the user interface and experience.   
+- 
+Technology used Core Java, Spring boot and MSSQL server   
+2. CMS (Case Management System)   
+- 
+Implemented RESTful APIs for seamless communication between the frontend and 
+backend components.   
+- 
+Integrated OpenText client functionalities for advanced case management capabilities.   
+- 
+Designed and developed the user interface using React.js, focusing on an intuitive and 
+user-friendly experience.   
+- 
+Technology Stack:   
+         Backend: Java (Spring Boot)   
+         Frontend: React.js   
+   
+DECLARATION   
+ I hereby declare that all the information furnished above is true to the best of my belief and    
+knowledge.  
+ 
+
