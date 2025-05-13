@@ -1,74 +1,56 @@
- 
-                                              REETESH JAIN 
-                  
-  +91-8171967179                        
-  Reetesh5082jain@gmail.com              reetesh-jain-a23030194              Github.com/Reetesh5082jain 
- 
-PROFILE SUMMARY 
- 
- A motivated Software Engineer with 2.4 years of experience in Java development, specializing in Microservices, Spring Boot and REST 
-APIs. Proven ability to design and implement scalable solutions that enhance user engagement and streamline business operations. 
- 
-EXPERIENCE 
- 
- ADEPTIA INDIA PVT LTD(AUG-2022 to Present) 
- Project Role: Software Engineer 
-   Title: AdeptiaConnect2 
-Details: AdeptiaConnect2 is an enterprise integration solution that simplifies business data exchange, enabling customer and 
-supplier data to be integrated 80 percent faster. Item powers non-technical business users to perform secure, Any-to-Any 
-integration, streamlining customer digital on boarding and reducing dependency on IT resources. Adeptia serves mid- to large-
-sized businesses globally, recognized for its innovative self-service data integration technology. 
- 
-Roles and Responsibility : 
-• Proficient in Java programming with over 2.4 year of hands-on experience. 
-• Led the design and implementation of web applications, resulting in a 50% increase in user engagement by utilizing Java Spring Boot 
-and Agile methodologies. 
-• Developed REST APIs using Spring Boot, established connections with MYSQL databases and incorporated all layers for seamless 
-integration. 
-• Java 8 innovations like stream APIs, optional classes, and lambda expressions were used to improve efficiency and make the code 
-more compact. 
-• Use Entity, Repository, DAO, and DTO to manage the data retrieved from the database. 
-• Developed classes and logic for web applications, incorporating Hibernate for persistence. Utilized Entity, Controller, Service, and 
-Repository layers to manage and retrieve data from databases, implementing REST APIs. 
-• I focused on implementing collections, exception handling, and OOP's principles into the project's fundamentals.   
-• Gaining a thorough understanding of the best practices and guiding principles of REST API development. 
-• Conducted thorough code reviews and performed unit JUnit5 testing while maintaining high code quality and application stability 
-through rigorous Agile Methodologies. 
-• Involved in requirements gathering, analysis, design, and documentation of the application. 
-• Addressed numerous support cases, debugging, and optimizing Java code to resolve complex technical issues. 
-• Implemented client requirements to deliver customized solutions that align with their business objectives. 
-• Collaborated with UI/UX designers to create intuitive layouts, enhancing user experience by 20%. 
-• Addressed EDI-related issues, facilitating smooth electronic data interchange between systems. 
- Health Catalyst (June-2022 to July 2022) 
- Project Role: Java Intern 
-• Design, develop, and maintain robust backend systems and APIs. 
-• Incorporated Java concepts such as OOPs principles, collection frameworks, and robust exception handling. 
-• Implemented fundamental principles in Java, such as the collection framework and object-oriented programming. 
-• Conducted class testing and utilized Maven for the build process, ensuring code reliability. 
-• Participated in daily stand-up meetings, sprint planning, and retrospectives. 
-EDUCATION 
- 
-    ESHAN COLLEGE OF ENGINEERING 
-Mathura, UP 
-    BTECH (86%) 
-     July2019-July 2022 
-    ESHAN COLLEGE OF ENGINEERING 
-Mathura, UP 
-    DIPLOMA (76%) 
-     July2016-July 2019 
- 
-TECHNICAL SKILLS 
-• Fundamentals: Data Structures,  Algorithms, Object-oriented programming (OOP). 
-• Programming Languages: Core Java, Java 8, Spring Boot, Apex. 
-• Database: MYSQL, SQL, Oracle, Hibernate. 
-• Web Development: Microservices, REST API, JavaServer Pages (JSP), Monolithic Architecture. 
-• Tools & Software: Postman (API Testing), Jira (Project Management, Issue Tracking), GIT (Version Control), Jenkins 
-(Continuous  Integration, Continuous Deployment), Apache Maven(Build Automation, Dependency Management), 
-Confluence (Collaboration, Document Management), IntelliJ IDEA (IDE). 
-• Salesforce Technologies: Lightning Components (Aura and LWC), Data Loader, SOQL, Process Builder, Workflow  Rules,  
-Visualforce, Reports and Dashboards. 
-ACHIEVEMENTS AND CERTIFICATES 
- 
-• Fast Learner Award: Recognized for rapidly attaining comprehensive product knowledge. 
-• Java Fundamentals: Completed certification from Great Learning Academy (03/2022 - 05/2022). 
+REETESH JAIN
+&
++91-8171967179
 
+©
+Reetesh5082jain@gmail.com
+I
+reetesh-jain-a23030194
+
+©
+Github.com/Reetesh5082jain
+PROFILE SUMMARY
+A motivated Software Engineer with 2.4 years of experience in Java development, specializing in Microservices, Spring Boot and REST APIs. Proven ability to design and implement scalable solutions that enhance user engagement and streamline business operations.
+EXPERIENCE
+ADEPTIA INDIA PVT LTD(AUG-2022 to Present)
+Project Role: Software Engineer
+Title: AdeptiaConnect2
+Details: AdeptiaConnect2 is an enterprise integration solution that simplifies business data exchange, enabling customer and supplier data to be integrated 80 percent faster. Item powers non-technical business users to perform secure, Any-to-Any integration, streamlining customer digital on boarding and reducing dependency on IT resources. Adeptia serves mid- to large- sized businesses globally, recognized for its innovative self-service data integration technology.
+Roles and Responsibility :
+• Proficient in Java programming with over 2.4 year of hands-on experience.
+• Led the design and implementation of web applications, resulting in a 50% increase in user engagement by utilizing Java Spring Boot and Agile methodologies.
+• Developed REST APIs using Spring Boot, established connections with MYSQL databases and incorporated all layers for seamless integration.
+• Java 8 innovations like stream APIs, optional classes, and lambda expressions were used to improve efficiency and make the code more compact.
+• Use Entity, Repository, DAO, and DTO to manage the data retrieved from the database.
+• Developed classes and logic for web applications, incorporating Hibernate for persistence. Utilized Entity, Controller, Service, and Repository layers to manage and retrieve data from databases, implementing REST APIs.
+• I focused on implementing collections, exception handling, and OOP's principles into the project's fundamentals.
+• Gaining a thorough understanding of the best practices and guiding principles of REST API development.
+• Conducted thorough code reviews and performed unit JUnit5 testing while maintaining high code quality and application stability through rigorous Agile Methodologies.
+• Involved in requirements gathering, analysis, design, and documentation of the application.
+• Addressed numerous support cases, debugging, and optimizing Java code to resolve complex technical issues.
+• Implemented client requirements to deliver customized solutions that align with their business objectives.
+• Collaborated with UI/UX designers to create intuitive layouts, enhancing user experience by 20%.
+• Addressed EDI-related issues, facilitating smooth electronic data interchange between systems.
+Health Catalyst (June-2022 to July 2022)
+Project Role: Java Intern
+• Design, develop, and maintain robust backend systems and APIs.
+• Incorporated Java concepts such as OOPs principles, collection frameworks, and robust exception handling.
+• Implemented fundamental principles in Java, such as the collection framework and object-oriented programming.
+• Conducted class testing and utilized Maven for the build process, ensuring code reliability.
+• Participated in daily stand-up meetings, sprint planning, and retrospectives.
+EDUCATION
+ESHAN COLLEGE OF ENGINEERING BTECH (86%) ESHAN COLLEGE OF ENGINEERING DIPLOMA (76%)
+Mathura, UP July2019-July 2022 Mathura, UP July2016-July 2019
+TECHNICAL SKILLS
+
+• Fundamentals: Data Structures, Algorithms, Object-oriented programming (OOP).
+• Programming Languages: Core Java, Java 8, Spring Boot, Apex.
+• Database: MYSQL, SQL, Oracle, Hibernate.
+• Web Development: Microservices, REST API, JavaServer Pages (JSP), Monolithic Architecture.
+• Tools & Software: Postman (API Testing), Jira (Project Management, Issue Tracking), GIT (Version Control), Jenkins
+(Continuous Integration, Continuous Deployment), Apache Maven(Build Automation, Dependency Management),
+Confluence (Collaboration, Document Management), IntelliJ IDEA (IDE).
+• Salesforce Technologies: Lightning Components (Aura and LWC), Data Loader, SOQL, Process Builder, Workflow Rules, Visualforce, Reports and Dashboards.
+ACHIEVEMENTS AND CERTIFICATES
+• Fast Learner Award: Recognized for rapidly attaining comprehensive product knowledge.
+• Java Fundamentals: Completed certification from Great Learning Academy (03/2022 - 05/2022).

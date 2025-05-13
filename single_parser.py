@@ -1,23 +1,53 @@
 import os
 import pymupdf
 import re
-import psycopg2
+# import psycopg2
+from image_parsing import image_resume_parsing
+import spacy
+import win32com.client
 
-FILE_PATH = "CVs/upal_cv.pdf"
+# FILE_PATH = os.path.abspath("CVs/jayesh resume.doc")
 OUTPUT_FOLDER = "output"
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
+text = ""
+
 def extract_text_from_pdf(path):
     try:
         doc = pymupdf.open(path)
-        text = ""
-        for page in doc:
-            text += page.get_text() + "\n"
-        return text
+        
+        has_images = False
+        
+        for page_num in range(len(doc)):
+            page = doc[page_num]
+            image_list = page.get_images(full=True)
+            
+            if image_list:
+                has_images = True
+                print(f"Page {page_num + 1} has {len(image_list)} image(s).")
+                text = image_resume_parsing(path)
+                return text
+            
+        if has_images == False:
+            text = ""
+            for page in doc:
+                text += page.get_text() + "\n"
+            return text
+        
+        
     except Exception as e:
         print(f"Failed to read PDF {path}: {e}")
         return None
+
+def convert_doc_to_docx(doc_path):
+    word = win32com.client.Dispatch("Word.Application")
+    doc = word.Documents.Open(doc_path)
+    new_path = doc_path.replace(".doc", ".docx")
+    doc.SaveAs(new_path, FileFormat=16)
+    doc.Close()
+    word.Quit()
+    return new_path
 
 def parse_document(file_path):
     filename = os.path.basename(file_path)
@@ -26,7 +56,8 @@ def parse_document(file_path):
         text = extract_text_from_pdf(file_path)
     else:
         print(f"Unsupported file type: {filename}")
-        return None
+        new_path = convert_doc_to_docx(file_path)
+        return parse_document(new_path)
 
     if text:
         output_filename = f"{os.path.splitext(filename)[0]}_output.txt"
@@ -47,15 +78,34 @@ def extract_info(text):
     
     #NAME
     
-    name_match = next((re.search(r'^Name\s*:\s*(.+)', line) for line in lines if re.search(r'^Name\s*:\s*(.+)', line)), None)
-    if name_match:
-        info["Name"] = name_match.group(1).strip()
+    name_pattern = re.compile(
+    r"""
+    (?:[¢•\-\s]*)?
+    (?:Full\s*Name|Name|Personal\s*Information)\s*[:\-]?\s*
+    (?P<name>
+        (?:Mr|Mrs|Ms|Miss|Dr|Er)?\.?\s*
+        [A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3}
+        (?:\s*\(.*?\))?
+    )
+    """,
+    re.IGNORECASE | re.VERBOSE
+)
+
+
+
+    matches = [match.group().strip() for line in lines for match in name_pattern.finditer(line)]
+
+    if matches:
+        info["Name"] = matches[0]
+
     else:
         probable_names = [line for line in lines[:5] if line.istitle() or len(line.split()) <= 4]
         try:
             info["Name"] = probable_names[0] if probable_names else lines[0]
         except Exception as e:
             print(f"Resume contains image data {e}")
+
+            
 
     # DESIGNATION
     exp_start = -1
@@ -129,7 +179,6 @@ def extract_info(text):
     for line in lines:
         if re.match(r"^\d+\.\s+[\w\s()/-]+$", line.strip()) or re.match(r"^(projects?|project work|project|technical projects|projects detail|projects).*?$", line.strip(), re.IGNORECASE):
 
-
             capture = True
             project_lines.append(line.strip())
             continue
@@ -163,7 +212,10 @@ def extract_info(text):
     return info
 
 # Run
-text = parse_document(FILE_PATH)
+# text = parse_document(FILE_PATH)
+
+nlp = spacy.load("en_core_web_sm")
+doc = nlp(text)
 
 if text:
     info = extract_info(text)

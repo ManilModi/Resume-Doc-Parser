@@ -1,0 +1,71 @@
+------Other------------
+Kunal Priyadarshi
+Noida,Uttar Pradesh
+Ó +91 8340528802
+R kunal123priya@gmail.com
+° https://www.linkedin.com/in/kunal-priyadarshi-34769a179/
+
+https://github.com/Kugelblitz19
+Ã https://medium.com/@kunal123priya
+
+------Education------------
+Uttarakhand Technical University
+08 2017 – 08 2021
+Bachelor of Technology - CGPA - 7.3
+Dehradun, India
+BSEB
+04 2015 – 05 2017
+Intermediate - PCM - PERCENTAGE - 68%
+Patna, India
+
+------Skills------------
+• Data Structures
+• Database Management
+• Artificial Intelligence
+• OOPS Concept
+Languages:
+Java, Html, Css, MySQL
+Developer Tools: VS Code, Intellij Idea Ultimate,Eclipse, Postman, Splunk,Jira,Postman
+Technologies/Frameworks: Spring Boot, ReactJS, Git, Spring Security, Spring Data Jpa,Hibernate,
+Tomcat,Microservices
+
+------Projects------------
+Online Learning Platform W | Java,Spring Boot,MySql,React.js
+08-2021
+• Objective: Built a web-based learning platform using Java and Spring Boot with secure user authentication,
+efficient database management, and integrated payment gateways for course enrollment.
+• Secured the platform with robust authentication and authorization.
+• Enhanced scalability through optimized database management.
+• Enabled seamless course enrollment via integrated payment gateways.
+Social Media Platform W | Java,Spring Boot,Mysql,React.js
+06-2024
+• Objective:A Web-based project which aims to develop a application(like Instagram)for sharing reels and
+photos where user can follow, post and chat with different users.
+• Enabled user interactions, including following, posting, and chatting with other users.
+• Implemented core features such as user authentication, logout, and password reset.
+
+------Experience------------
+ACCENTURE W
+02 2022 – 05 2024
+Application Development Associate
+remote, India
+• Elevated test coverage in Spring Boot applications using JUnit and Mockito, resulting in a 20 % reduction in
+defects and enhanced application reliability and responsibilities carried out.
+• Implemented over 50 user story-driven enhancements with a 100 % on-time delivery rate, boosting customer satisfaction
+and user engagement by 15 %.
+• Collaborated with cross-functional teams to deliver high-quality, scalable applications that align with business
+requirements.
+Humming Web Bird Solution W
+09 2021 – 12 2021
+Java Developer Intern
+remote, India
+• Established and maintained comprehensive test coverage for new features, reducing customer complaints by 7
+• Designed and implemented over 30 unit and integration tests using best practices.
+• Developed application software with minimal supervision, ensuring high-quality code and functionality.
+
+------Certifications------------
+• Java
+• Full Stack Java Developer -Udemy
+• SQL
+• MongoDB Basics
+

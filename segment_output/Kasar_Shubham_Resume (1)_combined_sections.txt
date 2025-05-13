@@ -1,0 +1,59 @@
+------Other------------
+Shubham Kasar
+H +91 9730687045
+# shubhamkasar2895@gmail.com
+Ñ Pune, MH
+ï linkedin.com/in/shubham-kasar
+PROFESSIONAL SUMMARY
+Dedicated and innovative full-stack developer with 2 years of industry experience, specializing in Java, Spring Boot, and
+Angular. Proficient in cloud technologies, particularly Azure, and skilled in developing scalable web applications.
+
+------Skills------------
+Programming Languages and Technical Skills: Java, Multithreading, Actuators, Spring Profiles, OOPS, Swagger,
+SDLC, Data Structures, and Algorithms
+Backend Technologies: Spring Boot, Spring Security, RESTful APIs, Microservices, JPA/Hibernate
+Frontend Technologies: Angular, TypeScript, HTML, and CSS
+Databases: MongoDB, MySQL
+Cloud Technologies: Azure (App Service, Functions, Storage, SQL Database, Active Directory, Cosmos DB)
+Development Tools: Eclipse, IntelliJ IDEA, Visual Studio Code, Git, Postman, MySQL Workbench, Maven
+Testing Tools: JUnit, Mockito
+
+------Experience------------
+Systems Engineer
+Infosys Limited
+August 2022 - Present
+Pune, India
+• Developed and modified RESTful APIs using Spring Boot to meet new business requirements, focusing on
+scalability and performance optimization.
+• Debugged and resolved issues in pre-implemented code, ensuring smooth functioning of critical features.
+• Integrated SQL databases like MySQL and MongoDB for efficient data storage and retrieval, using Spring Data
+JPA and Spring Data MongoDB.
+• Designed and implemented a microservices architecture using Spring Boot, facilitating independent deployment
+and scalability of services.
+• Configured Spring profiles to manage different environments such as development, testing, and production.
+• Implemented and configured Spring Boot actuators to monitor and manage application health, metrics, and other
+operational aspects.
+• Designed, developed, and deployed scalable and secure backend solutions using the Azure cloud services.
+• Used Spring Security to set up a strong login and access controls.
+• Implemented unit testing using JUnit and Mockito to verify code reliability and correctness.
+• Developed the front-end using Angular, HTML, CSS, and TypeScript for responsive and interactive web applications.
+• Implemented routing and navigation in Angular applications using Angular Router.
+• Applied SDLC and support processes, including incident management and problem management.
+• Implemented Swagger for documenting RESTful APIs.
+• Used JPA to map Java objects to relational databases, ensuring smooth interaction and efficient management of
+data within Spring applications.
+Intern
+Galvi Engineering Pvt Ltd.
+May 2021 - August 2021
+Pune, India
+
+------Education------------
+B.E. in Electronics and Telecommunication Engineering (Grade: Distinction)
+Savitribai Phule Pune University
+2018–2022
+Pune, India
+
+------Certifications------------
+Microsoft Certified: Azure Fundamentals (08/2023)
+Microsoft Certified: Azure Developer Associate (04/2024)
+

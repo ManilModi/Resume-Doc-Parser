@@ -1,118 +1,37 @@
-Senvita Tandel 
-[Software Engineer – Java Developer] 
-Email: tandelsenvita8055@gmail.com 
-Mobile: +91–8511128056 
-Experience Summary 
- 1+ years of professional software development experience working on multi-tiered 
-applications, Web Services. 
- Hands on experience in Java/J2EE technologies like Spring MVC, Spring Boot, Spring 
-Security, Hibernate, Servlet and JPA. 
- Good Experience in designing & managing relational database with MySQL & PostgreSQL. 
- Expertise in HTML, JavaScript Good knowledge on JSON, XML & Beans. 
- Extensively worked on debugging using Eclipse & Intellij debugger. 
- Consuming and exposing data in between 2 Micro services using REST API. 
- Creating an API gateway and routing all the requests through it. 
- Experience inversion control management like GIT. 
-Education & Qualifications 
- M.C.A (Master in Computer Application) with first class from Saurasatra University in 2023. 
- B.C.A (Bachelor of Computer Application) with first class from Veer Narmada University in 
-2021. 
- 
-Technical Skills 
- Operating Systems 
- : Windows 
- Programming Languages 
- : Java,HTML 
- Databases 
- : MySQL, PostgreSQL. 
- Version Control Tools 
- : GIT 
- J2EE Technologies & Frameworks: Spring Boot, Servlet, JSP, Web Services, Spring MVC,  
-    
- 
- 
- 
-      Hibernate, JPA. 
- Development IDEs Tools 
- : Eclipse, Intellij 
- Debugging Tools                               : Maven 
- Web Servlet Container 
- : Apache Tomcat 
- Scripts 
-: Java Script, JSON & XML. 
- 
-Professional Experience 
-Aegis Software, Rajkot Gujarat, India. From January 2023 to Present 
- 
-  Project Work Experience 
-1. Crypto Currency 
- 
-Project Name 
-  Crypto Currency 
-Project Description 
- Crypto Wallet is a new digital wallet service that offers organizations a  
- safe and convenient vault management solution. In order to provide   
- transparency and privacy, it is based on open standards such as PSBT  
- and is intended to support hardware wallets. Crypto doesn't try to keep 
- information from you; on the contrary, it makes an effort to give you as 
- much information as possible about your transactions in a   
- comprehensible and practical manner.                                   
-
-Project Modules 
- User Registration 
- Stripe Payment Integration  
- Colcord Wallet 
-Role 
- Developer 
-Technologies 
- Java,Hibernate,Spring Boot, Spring Security, Spring Data JPA,Spring   
- Restful Web Service 
-Database 
- PostgreSQL 
- 
-2. Axelor 
- 
-Project Name 
-  Axelor 
-Project Description 
-Axelor is an Open Source business application suite that reinvents  
-enterprise management. Boost productivity and manage your  
-resources efficiently with our turnkey solutions, tailored for various   
-sectors including consulting firms, IT services, and software publishers.  
-Our Low-code platform provides comprehensive visibility and reduces  
-operational complexity for industries like automotive, electronics,  
-metallurgy, medical, rail, construction and capital goods. In the public  
-sector, our solutions support local authorities and public service  
-delegations, addressing evolving user needs and data sovereignty  
-issues, thereby enhancing the development and cohesion of resources   
-and territories. 
-Role 
- Developer 
-Technologies 
- Java, Axelor Framework, XML 
-Database 
- MySQL 
- 
- 
-  Personal Details & Contacts 
-Full Name 
-: Senvita N. Tandel 
-Date of Birth 
-: 1 Aug 2001 
-Gender 
-: Female 
-Marital Status 
-: Unmarried 
-Languages Known 
-: English, Hindi & Gujarati 
- 
-Declaration 
-I hereby declare that the all above mentioned Information are true, complete & correct to the                      
-best of my knowledge. 
- 
-Date: 
-Place: 
+Senvita Tandel
+[Software Engineer – Java Developer]
+Email: tandelsenvita8055@gmail.com
+Mobile: +91–8511128056
+Experience Summary
+1+ years of professional software development experience working on multi-tiered applications, Web Services.
+Hands on experience in Java/J2EE technologies like Spring MVC, Spring Boot, Spring Security, Hibernate, Servlet and JPA.
+Good Experience in designing & managing relational database with MySQL & PostgreSQL.
+Expertise in HTML, JavaScript Good knowledge on JSON, XML & Beans.
+Extensively worked on debugging using Eclipse & Intellij debugger.
+Consuming and exposing data in between 2 Micro services using REST API.
+Creating an API gateway and routing all the requests through it.
+Experience inversion control management like GIT.
+Education & Qualifications
+M.C.A (Master in Computer Application) with first class from Saurasatra University in 2023.
+B.C.A (Bachelor of Computer Application) with first class from Veer Narmada University in 2021.
+Technical Skills
+Operating Systems
+: Windows
+Programming Languages : Java,HTML Databases : MySQL, PostgreSQL. Version Control Tools : GIT J2EE Technologies & Frameworks: Spring Boot, Servlet, JSP, Web Services, Spring MVC, Hibernate, JPA. Development IDEs Tools : Eclipse, Intellij Debugging Tools : Maven Web Servlet Container : Apache Tomcat Scripts : Java Script, JSON & XML.
+Professional Experience
+Aegis Software, Rajkot Gujarat, India. From January 2023 to Present
+Project Work Experience
+1. Crypto Currency
+Project Name Crypto Currency Project Description Crypto Wallet is a new digital wallet service that offers organizations a safe and convenient vault management solution. In order to provide transparency and privacy, it is based on open standards such as PSBT and is intended to support hardware wallets. Crypto doesn't try to keep information from you; on the contrary, it makes an effort to give you as much information as possible about your transactions in a comprehensible and practical manner.
+Project Modules User Registration Stripe Payment Integration Colcord Wallet Role Developer Technologies Java,Hibernate,Spring Boot, Spring Security, Spring Data JPA,Spring Restful Web Service Database PostgreSQL
+2. Axelor
+Project Name Axelor Project Description Axelor is an Open Source business application suite that reinvents enterprise management. Boost productivity and manage your resources efficiently with our turnkey solutions, tailored for various sectors including consulting firms, IT services, and software publishers. Our Low-code platform provides comprehensive visibility and reduces operational complexity for industries like automotive, electronics, metallurgy, medical, rail, construction and capital goods. In the public sector, our solutions support local authorities and public service delegations, addressing evolving user needs and data sovereignty issues, thereby enhancing the development and cohesion of resources and territories. Role Developer Technologies Java, Axelor Framework, XML Database MySQL
+Personal Details & Contacts
+Full Name : Senvita N. Tandel Date of Birth : 1 Aug 2001 Gender : Female Marital Status : Unmarried
+: Senvita N. Tandel
+Languages Known : English, Hindi & Gujarati
+Declaration
+I hereby declare that the all above mentioned Information are true, complete & correct to the best of my knowledge.
+Date:
+Place:
 (Senvita Tandel)
- 
- 
-

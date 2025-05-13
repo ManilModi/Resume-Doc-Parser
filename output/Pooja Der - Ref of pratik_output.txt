@@ -1,7 +1,38 @@
+PERSONAL INFORMATION
+¢ Full Name: Mrs. Pooja Ankit Kachot (Married Name) ¢ Marital Status : Married ¢ Nationality : Indian ¢ Religion : Hindu ¢ Gender : Female ¢ Birth M-Y : July, 1996
+LANGUAGES
+English: ed Proficient Hindi: a ee ee ee Proficient Gujarati: Cd Proficient
+HOBBIES AND INTERESTS
+¢ Puzzles Solving « Reading ¢ Learn New Things ¢ Dancing ¢ Cooking
+Preferred Job Location: Ahmedabad
+Pooja Der
+Java Developer
+Computer Engineer
+® 4919727062900
+4 pooja.der@gmail.com
+fin) pooja-der
+EXPERIENCE
 4
-Preferred Job Location:
-Ahmedabad
-Ahmedabad
-Ahmedabad
-Ahmedabad
-
+Junior Java Developer
+Aegis Software | Rajkot, Gujarat (India)
+« Works on Java, SQL, Spring Boot & Microservices
+¢ Database: MySQL, PostgreSQL & Oracle
+¢ Software: Eclipse & IntelliJ
+¢ Analyse user requirements before starting Java development projects.
+¢ Prepare and Test Rest API as per the client requirement.
+Review and Test existing code to identify and resolve the bugs.
+¢
+¢ Code Optimization of existing code.
+09/2022 - 01/2023
+Trainee - Junior Java Developer
+Aegis Software | Rajkot, Gujarat (India)
+05/2022 - 09/2022
+Certified Java Developer TOPS Technologies Pvt. Ltd | Rajkot, Gujarat (India)
+EDUCATION
+2017
+Atmiya Institute of Technology & Science, GTU | Rajkot, GJ
+B.E. - Computer Engineering 8.59 CGPA
+2013
+Krishna Science School, Gujarat Board | Jamnagar, GJ
+12th - Science - A Group 80.20 PR
+2011 Shree JKV School, Gujarat Board | Jamnagar, GJ 10th 85.31 PR

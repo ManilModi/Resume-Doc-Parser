@@ -1,14 +1,19 @@
 
 import psycopg2
-from single_parser import extract_info, parse_document
+from segment_parsing import segment_text_file, extract_info_from_segmented_text
+from single_parser import extract_info
 
 
-FILE_PATH = "CVs/Manil Modi Resume 5.pdf"
-OUTPUT_FOLDER = "output"
+FILE_PATH = "CVs/Govind_Rathod_Android-2.pdf"
+OUTPUT_FOLDER = "segment_output"
 
 
-text = parse_document(FILE_PATH)
-info = extract_info(text)
+text, has_image = segment_text_file(FILE_PATH)
+
+if has_image:
+    info = extract_info(text)
+else:
+    info = extract_info_from_segmented_text(text)
 
 def insert_into_postgresql(info):
     conn = None  # Ensure conn is defined even if connection fails
