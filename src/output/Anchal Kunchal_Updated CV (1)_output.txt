@@ -1,0 +1,181 @@
+Anchal Kunchal 
+Email: anchalkunchal22@gmail.com | Mob: +91-8708520153 | Mahender Garh, Haryana 
+Professional Summary: 
+Experienced as Full Stack Java Developer with 2+ Years of Expertise in Web Application Design, 
+Development and Maintenance. Proficient in Java, JSP, Servlets, Angular, HTML, CSS, Jmeter, 
+Postman, Hibernate and MySQL database. Knowledgeable in Spring, Spring MVC, Spring Boot, and 
+REST APIs. Familiar with Agile methodologies and continuous integration. 
+Technical Skills: 
+• 
+Programming Language: Java (Core, JSP, Servlets) JavaScript 
+• 
+Web Technologies: Angular, HTML, CSS 
+• 
+Database: MySQL, Hibernate 
+• 
+Frameworks: Spring (Spring Framework, Spring MVC, Spring Boot) 
+• 
+Web Services: RESTful APIs 
+• 
+Tools: Jira (Project Management), Git (Version Control), Apache JMeter, Postman 
+• 
+IDEs: Eclipse/IntelliJ IDEA, VS Code 
+Work Experience: 
+Associate Software Engineer | Mphasis (Apr 2023 – Till Date) 
+• 
+Develop and maintain web applications using Java, JSP, Servlets, JavaScript, HTML, CSS, and 
+Angular. 
+• 
+Implement CRUD functionality, resulting in streamlined Create, Read, Update, and Delete 
+operations. 
+• 
+Conduct debugging, troubleshooting, and bug fixing, leading to enhanced application 
+performance. 
+• 
+Manage source code versioning with Git and track project progress using Jira. 
+• 
+Contribute to daily team meetings, fostering effective communication and providing regular 
+work update. 
+Projects Detail: 
+Project Name: Online Book Review System Project 
+Role: Full Stack Developer 
+Technology Used: Java, JSP, Servlets, JDBC, HTML, CSS, Angular, Hibernate, Spring Boot, Git, JIRA, 
+MySQL Database. 
+Responsibilities: 
+• 
+Implement features with CRUD operations for the Online Book Review system, resulting in 
+improved efficiency. 
+• 
+Collaborated with cross-functional teams to design, develop and launch new features for web 
+applications. 
+• 
+Implemented continuous integration pipelines for automated testing and deployment of 
+software updates. 
+• 
+Refactored legacy codebases to modernize software architecture and improve maintainability. 
+• 
+Led code reviews within the development team to ensure consistent quality standards across all 
+projects. 
+• 
+Developed unit test cases for testing and automation. 
+• 
+Worked with back-end developers to design APIs. 
+• 
+Project has been successfully completed. The goal of the system is achieved and the problems 
+are solved. This project is developed in this manner that is user friendly and required help is 
+provided at different levels. 
+Project Name: Build an Application to communicate the status of Railway Crossings in advance. 
+Role: Junior Java Developer 
+Technology Used: Java, Servlets, JSP, JDBC, Hibernate, Apache Tomcat, Search & Sort Techniques, 
+MySQL 
+Responsibilities: 
+
+• 
+End user authentication to access the application 
+• 
+Listing of railway crossing sites with status 
+• 
+Favourite railway crossings for end users 
+• 
+Government user authentication to access admin Dashboard 
+• 
+CRUD operations for Railway Crossing Management 
+• 
+Update Status of railway crossing site 
+Backend Developer, Remote | Turnkey Solution Pvt Ltd (Mar 2022 – Apr 2023) 
+Project Name: Build a peer to peer Camera Rental Application (Mini Project) 
+Role: Full Stack Developer 
+Technology Used: Java, Eclipse, GitHub 
+Responsibilities: 
+• 
+Document the Application Flow. 
+• 
+Set up Git and a GitHub account to store and track enhancements of the prototype. 
+• 
+Implement Java concepts in the creation of this application. 
+• 
+Includes Data Structures for Sorting & Searching. 
+• 
+List a Camera along with its brand, model and per day rental amount. 
+• 
+Add or View Wallet Amount. 
+• 
+Navigate from the current execution context to the main context. 
+Web Developer (Intern) | Delineate Technologies Pvt Ltd (Oct 2021 – Mar 2022) 
+Responsibilities: 
+• 
+Write custom HTML, PHP, CSS and JavaScript for existing websites and applications.  
+• 
+Design, recommended and pitch improvements to new and existing features.  
+• 
+Assist in troubleshooting issues on web-based system.  
+• 
+Update and edit website, posts and pages. 
+Certifications: 
+• 
+One Year Full Computer Course from Aptech Computer Education. 
+• 
+Six Month Python Course from Excellence Technologies. 
+Trainings: 
+• 
+Oops in Java Certification Course 
+• 
+Git and GitHub Course 
+• 
+Advance SQL Course  
+• 
+Basic of Python 
+• 
+Ethical Hacking and Cyber Security 
+• 
+Resume Making and Personal Branding 
+• 
+Building Responsive Landing Page using HTML and CSS 
+• 
+Mastering JavaScript Fundamentals Course 
+• 
+Job Interview Preparation Course 
+Education Details: 
+MCA: Punjab Technical University, 2022 (CGPA: 8.48) 
+BCA: Maharshi Dayanand University, 2020 (76.4%) 
+Personal Details: 
+Name 
+ 
+ 
+: 
+ 
+Ms. Anchal Kunchal 
+Email 
+ 
+ 
+: 
+ 
+anchalkunchal22@gmail.com 
+Mob  
+ 
+ 
+: 
+ 
++91-8708520153, +91-8569888553 
+Address 
+ 
+ 
+: 
+ 
+VPO Kanina, Distt Mahender Garh, Haryana 
+ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature 
+Anchal Kunchal 
+ 
+ 
+

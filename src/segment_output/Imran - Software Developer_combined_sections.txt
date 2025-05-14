@@ -1,0 +1,49 @@
+------Other------------
+IMRAN
+Software Developer
+
+------Skills------------
+Programming Languages: Java, SQL, TypeScript, Python
+Libraries/Frameworks: Spring Boot, Angular 14, Hibernet,
+Microservices, RESTful API's Tools / Platforms: Kafka, Git, IntelliJ,
+VS Code, Maven, Gradle, Eclipse, JavaScript Databases: NoSQL,
+MySQL, Oracle, Cassandra, Druid, Redis, H2 Database
+
+------Projects------------
+assembly-management-service | Link Java, Spring Boot, MySQL,
+Angular This microservice is part of MicroAI Launchpad & it's
+allows the user to add and remove devices being monitored by our
+AI technology. It is provides a dashboard for each device showing
+graphs for each sensor being monitored and for the overall health of
+the device. This allows the user to register a
+device, monitor its status, and know when the device will fail
+before it does fail.
+network-monitor-service | Link Java, Spring Boot, H2 Database,
+Redis, Angular This microservice is part of MicroAI Security and
+Monitoring project Real-time security alerts based on continuous
+self-monitoring of asset status and anomalies. An Endpoint Agent
+resides on the asset providing automated alerts based on asset-speci
+c triggers and assessment of abnormal network
+activities. Ability to store/cache monitored logs in the event of a
+power or network disconnection.
+payment-module Java, Spring Boot, MySQL, Braintree, Jasper soft
+When new customer purchase our product of services so we give
+them option to download catalogs and invoices. We are giving the
+customers the option of payment by debit card, credit card &
+PayPal using payment getaway (Braintree).
+kafka-consumer-util Java, Spring Boot, Kafka
+This is utility tool to help create a schema to map this data and
+write it into a le to save data for any further processing or database
+operation.
+data-processor Java, Spring Boot, Kafka, MQTT
+This is utility tool to help monitoring agent Timestamp history by
+help of HTML parser to extract data and intermediate processing
+the data and publishing through MQTT & Kafka.
+
+------Certifications------------
+Java Full Stack - https://www.jspiders.com/.
+Core Java - https://www.niit.com/india/.
+
+------Achievements------------
+Solve 100+ questions on HackerRank & HackerEarth.
+

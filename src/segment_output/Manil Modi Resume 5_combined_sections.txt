@@ -1,0 +1,96 @@
+------Other------------
+MANIL MODI
+A Computer Engineering student with a strong foundation and
+interest in Machine Learning and Data Science, seeking
+opportunities to apply and grow technical skills through
+impactful collaborative work.
+Contact Information
+msmodi1701@gmail.com
+Contact No. : +91 79903 70672
+LinkedIn : Manil Modi
+Github : ManilModi
+Medium : Manil Modi
+
+------Certifications------------
+IBM Data Science
+Fundamentals
+Data Science and Machine
+Learning with Python
+Machine Learning A-Z: AI
+Python & R + ChatGPT Prize
+Complete Python Bootcamp
+
+------Experience------------
+Google Developers Group - On Campus
+AI/ML Team Member
+Oct 2024- Present
+Authored and published technical articles on Medium covering
+Machine Learning and Data Science concepts.
+Supported the organization of DUHACKS 4.0, a national hackathon with
+over 6,000 participants.
+Collaborated with student developers to brainstorm and implement ML-
+
+------Projects------------
+Delhi Power Prediction and Analysis
+Achieved 95% accuracy in electricity load forecasting using XGBoost,
+addressing Delhi’s Duck Curve problem.
+Applied K-Means Clustering to segment power zones and visualized
+results via Geo maps.
+Integrated a RAG system using Hugging Face Sentence Transformers
+and the LLaMA model for area-specific energy queries.
+Loan-Repay Classification Model
+Developed a deep learning model using Artificial Neural Networks (ANN)
+to classify loan repayment potential with 90% accuracy.
+Trained on the Lending Club California dataset using Python and
+TensorFlow/Keras.
+AI Career Advisor
+Created an intelligent career advising tool using NLP, LLMs, and image
+processing.
+Extracted skills from resumes using Sentence Transformers and
+calculated ATS scores with over 85% matching accuracy.
+Built an interactive quiz engine and personalized course/job
+recommender system with 1000+ courses.
+Verified certificate authenticity using OpenCV and enhanced networking
+via geo-mapped skill connections.
+Integrated a LLaMA-based RAG system to generate tailored job and skill
+insights.
+
+------Education------------
+B.Tech in Computer Engineering
+Dharmsinh Desai University, Nadiad
+Aug 2023 - May 2027
+CGPA (1st Year): 9.7/10
+
+------Skills------------
+EDA
+Python including
+NumPy and Pandas
+Matplotlib and Seaborn
+Plotly and Cufflinks
+Geographical Plotting
+MACHINE LEARNING
+Feature Engineering
+Supervised Learning
+Unsupervised Learning
+Association Rule Learning
+(Mathematical understanding and
+insights)
+DEEP LEARNING
+Fundamental algorithms and
+building blocks of DL
+Artificial Neural Networks
+Convolutional Neural
+Networks
+WEB DEVELOPMENT
+HTML, CSS, Bootstrap
+Django Framework
+Spring Boot and Hibernate
+PHP
+C++
+Java
+SQL
+Communication
+Team Player
+Real-World Problem Solving
+Piano
+

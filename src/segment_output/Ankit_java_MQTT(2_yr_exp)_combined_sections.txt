@@ -1,0 +1,60 @@
+------Other------------
+7689035065
+005ankitverma@gmail.com
+www.reallygreatsite.com
+Sanjay nagar , sector 23, Ghaziabad
+C O N T A C T
+S K I L L S
+7 6 8 9 0 3 5 0 65
+W O R K  E X P E R I E N C E
+005ankitverma@gmail.com
+FrameWorks: Spring MVC, Spring Boot , JPA Hibernate,
+www.reallygreatsite.comHTML ,CSS , JavaScript-basic
+Database-:   Sanjay nagar , secto
+r 23, Ghaziabad
+Others : Microservices -basic, MQTT protocols
+Programming Languages: Core Java , J2EE, SQL
+FrameWorks: Spring MVC, Spring Boot , JPA Hibernate,
+Web Technologies:  HTML ,CSS , JavaScript-basic
+Database-:   PostgreSQL and MySQL
+Tools : Maven , Postman.Git
+Others : Microservices -basic, MQTT protocols
+c
+Maharshi Dayanand Inter College
+, Mau , Up    2015-16
+Java Developer
+Bachelor of Technology
+2019-2023
+Computer Science And Engineering
+7.58 CGPA
+Conducted comprehensive testing using JUnit, identifying and resolving issues
+promptly to meet project requirements.
+M aharshi D ay anand I nter Colle ge , Mau  , Up    2015- 16
+Take ownership of production bug fixes and also  responsible for restructuring of
+existing functionalities in the backend .
+Solve 11 5+ Quest ions on  LEETCODE
+Secure 489 rank in Job- A -Thon 2022
+A . N . R .  S o f t ware Pvt Ltd.                                                            Sep 2022-Present.
+eResturent
+Work with MVC Architecture, writing modules from scratch and developing REST APIs. I am also involve in modifying business logic and managing position code-based migrations.
+R e v a m p e d  t he codebase in existing application to improve maintainability and scalability. Cut down on bug resolution time by 35% and increased code reusability by 50%.
+C o n d u c t e d  c o m prehensive testing using JUnit, identifying and resolving issues promptly to meet project requirements.
+Achieved a 70-80% reduction in load by leveraging advanced data structures, Java Collections framework, and Redis for efficient caching and data management.
+Take ownership of production bug fixes and also  responsible for restructuring of existing functionalities in the backend .
+Applied various design patterns (e.g., Singleton) and advanced multithreading techniques to optimize application performance.
+Optimised SQL queries and reduced respones time of critical AP
+Is by 30%.
+Create Controller to handle add student request and other
+request .
+Create three Package Controller ,Service and Repostiry .
+I build this project using Spring Boot .
+In this project we manage the Student ,Book and Transaction in DB.
+Create Controller to handle add student request and other request .
+Create three Package Controller ,Service and Repostiry .
+Write unit test by using JUnit  and mock object using mockito .
+Use multilpe annotation like @RestController , Autowired
+Tech Stack -:
+User send request using Postman Tool .
+We also imporve performance this project using Redis .
+We Secure Rest APIs by using Spring Security.
+

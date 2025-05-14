@@ -1,0 +1,130 @@
+ADARSH G A
+The role you are applying for?
+E
+8546826506
+8546826506
+adarshangadi20@gmail.com
+Bengaluru
+SUMMARY
+I am a Java Full Stack Developer with around 3 years of experience in building and enhancing enterprise-level Java applications. I have a strong understanding of Java 8, Microservices, Spring Boot, and React, along with hands-on experience in Angular and Vue for frontend development. I am skilled in Object-Oriented Programming and proﬁcient in using the MVC design pattern for web applications. Additionally, I am familiar with CI/CD pipelines using Jenkins and SonarQube for code coverage. I also have a solid command of SQL programming for creating tables, functions, and views on Oracle SQL.
+EXPERIENCEproje
+2022 - Present
+Java full stack developer
+Bengaluru
+Bengaluru
+Electem Business Solutions
+Experience has taught us that successful projects require more than just technical expertise; eﬀective communication, problem-solving, and adaptability are equally crucial. These insights have helped us mature into a company that prioritizes not only the adoption of new technologies but also process
+improvements and a client-centric approach. We believe that in the service industry, three key
+aspects drive success: technology, process, and client focus
+TECH SKILLS
+Java
+LINUX MSWindows OracleSQL/PLSQL Spring boot UNIX MongoDB Git
+Postman
+Angular
+Vue.JS
+React
+PostgreSQL Maven
+RabbitMQ
+Gradle
+Micro-service
+Object-OrientedProgrammingConcepts
+EDUCATION
+2017 - 2021
+Bachelor of Engineering(Computer Science & Eng),
+Sri Taralabalu Jagadguru Institute of Technology, Rannebenur
+PROJECTS
+Product Management System, Software Developer
+07/2022 - 06/2023 Bengaluru
+Can Browser is an advanced Product Information Management (PIM) system for the CAN industry. It manages, compares, shares, and updates thousands of products. The application is deployed on AWS servers and features an advanced search engine powered by Elasticsearch. The system is built using Java & Spring Boot for the backend, Angular for the frontend, and MySQL for the database.
+Job accomplishments:
+• I designed and implemented dynamic, responsive web interfaces using Angular. I created and managed key entities such as Product, Resource, Description, and Price, establishing effective relationships to enhance user interaction and management of thousands of products. Angular’s advanced features, including two-way data binding and modular architecture, were utilized to ensure an intuitive and seamless user experience.
+www.enhancv.com
+Powered by
+• I utilized Spring Boot to develop and connect RESTful APIs, enabling smooth communication between the frontend and backend. I employed Spring MVC for efficient request handling and Spring Data JPA to manage entities like Product, Resource, Description, and Price in MySQL. I established necessary relationships between these entities, such as one-to-many (e.g., a Product containing multiple Resources) and many-to-one (e.g., a Price associated with a Product), ensuring robust data management.
+
+I configured and integrated Elasticsearch to deliver high-performance search functionality. I
+developed entities like Search Index and Search Query, setting up relationships to facilitate rapid and precise querying of Product and Price data. This significantly enhanced search efficiency and accuracy within the application.
+• I employed Swagger to design, document, and test APIs for entities including Product, Resource, Description, and Price. I created interactive and comprehensive API documentation, ensuring clarity and consistency across development, testing, and production environments.
+
+Implemented email notifications using Spring Boot’s Java Mail API to automatically inform
+users about updates to product details. When a product’s information (such as price or description) was updated, the system triggered an email to relevant stakeholders, including product managers and sales teams, ensuring they were promptly notified of changes.
+
+I used JUnit for thorough unit testing of both frontend and backend components, including
+entities such as Product, Resource, Description, and Price. I developed and executed test cases to ensure functionality and reliability. Additionally, I performed detailed debugging to resolve issues and improve application stability.
+
+I managed the deployment process using PuTTY for secure SSH access. I handled
+configuration and deployment tasks efficiently, ensuring a smooth rollout of the application. My responsibilities included coordinating deployment processes and managing entity configurations to ensure successful implementation.
+Technologies Used:
+• Backend Development:
+Java & Spring Boot: Built backend solutions, including data persistence, integration with external systems, and processing for asset tracking.
+Java Mail API: Implemented email functionality with secure SMTP support, including TLS and SSL authentication.
+Spring Boot: Employed for creating RESTful APIs, handling data persistence, and implementing security measures with Spring Security.
+• Database and Search :
+MySQL: Managed relational data storage and optimization.
+Elasticsearch: Used for advanced search capabilities, storing and querying Product and Resource details
+with query strings.
+• Frontend Development :
+Angular: Developed responsive, dynamic user interfaces and implemented advanced features
+like reactive forms and state management (NgRx) for scalable components
+• API Management :
+Swagger: Implemented for designing, documenting, and testing APIs, ensuring well-defined and consistent API
+interactions.
+• Testing and Debugging:
+JUnit: Applied for comprehensive unit testing to verify code reliability and functionality.
+www.enhancv.com
+Powered by
+• Deployment and Infrastructure
+PuTTY: Used for remote server management and deployment via SSH, facilitating efficient project rollouts and
+server configuration.
+Health Care Management System, Software Developer
+07/2023 - Present Bengaluru
+Fiizio is a built-in Java for Android. Fiizio is the digital backbone of private rehab & wellness practices for serving their clients.
+Fiizio digital hub provides, and constantly brings together, multiple digital tools while connecting you directly with your clients through your branded mobile app, all on a single platform, and at the best value.
+This is a mobile application developed using technologies such as Java as the backend, Angular as the frontend, MYSQL
+as the database, and also Spring Boot, Hibernate, Ionic 3 & Oracle.
+Job accomplishments:
+• I designed and implemented a comprehensive records management system using MySQL. Created entities such as Patient, Clinician, and Exercise with appropriate relationships. For instance, implemented one-to-many relationships where a Patient can have multiple Exercise Assignments, and many-to-many relationships between Patient and Clinician for efficient tracking and management of records.
+• I integrated Firebase to handle scheduling and notifications. I developed entities like Appointment and Notification, and configured relationships to link Patient and Clinician with their respective appointments and notifications. This setup automated push messages and email alerts, enhancing communication between clinicians and patients.
+
+I integrated TokBox to facilitate video consultations. I created the Video Session entity and
+established relationships between Patient and Clinician within this entity. This allowed patients to book and connect with clinicians seamlessly through the application.
+
+I enabled clinicians to share exercise details, articles, and news via email. I developed
+entities for Content and Communication Log, and linked them with Patient and Clinician profiles to ensure that relevant information was delivered in a timely manner.
+
+I implemented Stripe for secure online payments. I designed the Payment entity to
+manage transactions, with relationships connecting payments to specific Appointments and Patient accounts. This integration provided a secure and efficient payment process..
+
+I integrated the application with a remote database using Hibernate for ORM. I created
+and managed entities like Patient, Clinician, Exercise, Appointment, and Notification, ensuring efficient data retrieval and relationship management.
+
+I employed Java for backend development, Spring Boot for building RESTful APIs and
+handling data persistence, Angular for frontend development, and Ionic 3 for hybrid mobile app development. I utilized MySQL and Oracle for database management, and integrated Firebase and Stripe to enhance application features and functionalities.
+Technologies Used:
+• Backend Development:
+Java: Core language used for backend logic and application functionality.
+Spring Boot: Framework for building RESTful APIs, managing data persistence with JPA, and implementing
+security features.
+Hibernate: ORM tool used for mapping Java objects to database tables and managing relationships.
+MySQL: Relational database for storing patient, clinician, exercise, appointment, and payment data.
+www.enhancv.com
+www.enhancv.com
+Powered by
+Oracle: Additional database support for data management and integration.
+• Database Integration: :
+MySQL: Primary relational database used for managing and storing application data.
+Oracle: Additional support for complex data operations and integration
+• Frontend Development :
+Angular: Framework for building dynamic and responsive web interfaces, integrating with backend APIs and handling user interactions.
+Ionic 3: Framework used for developing hybrid mobile applications, enabling cross-platform functionality.
+• Payment Processing:
+Stripe: Implemented for secure online payments via debit and credit cards..
+- Stripe: Implemented for secure online payments via debit and credit cards..
+• Development and Deployment Tools:
+JUnit: Framework for writing and running unit tests, ensuring code reliability and functionality.
+Debugging Tools: Used for identifying and fixing issues in the application code.
+Deployment Tools: Employed Putty for secure SSH connections and deploying the application to servers.
+• Documentation and API Management:
+Swagger: Tool for designing, documenting, and testing APIs, ensuring consistent and reusable code.
+www.enhancv.com
+Powered by

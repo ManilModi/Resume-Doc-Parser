@@ -1,0 +1,63 @@
+------Other------------
+Ar
+Front-End Developer
+
+------Experience------------
+Front-End Developer
+2023 – Present Jaipur,
+Rajasthan
+Developed and maintained user interfaces for web applications
+using Angular and PrimeNG. Enhanced application performance by
+implementing efficient coding practices.
+Collaborated with backend developers to integrate APIs and
+optimize performance. Ensured seamless data flow and improved
+application speed by 20%.
+Implemented responsive design principles to ensure applications
+were mobile-friendly. Increased user engagement through improved
+accessibility on various devices.
+Conducted code reviews and provided mentorship to junior
+developers. Promoted best practices and reduced bugs by 30%
+through thorough code assessments.
+Front-End Developer Intern
+2022 – 2022 Noida
+Assisted in the development of user interfaces for healthcare
+applications using HTML, CSS, and JavaScript. Helped streamline
+the user interface, resulting in a 15% increase in user satisfaction.
+Worked with senior developers to troubleshoot and debug front-end
+issues. Successfully resolved over 50 issues, enhancing application
+stability and user experience.
+Participated in daily stand-ups and contributed to project planning
+and execution. Provided valuable input that improved project
+timelines and delivery.
+Created reusable components and optimized code for better
+performance. Reduced load times by 25% through efficient coding
+techniques.
+
+------Skills------------
+Angular, JavaScript/Typescript, PrimeNG, Angular Material,
+Bootstrap, HTML, CSS, Git/GitHub
+
+------Projects------------
+Graviton Enterprise Product – LOS(Loan Origination System)
+Implement Multiple New Features and solve multiple bugs, some of
+the following –
+Docket (create the report in async and can create multiple reports at
+one time)
+Tat(Turn Around Time) track of a file to goal reach.
+KPI(Key Performance Integration) which helps in tracking all loan
+data in a single frame
+Family Wise Module(Applicant, CoApplicant, Family Member,
+Reference, Guarantor) Integration.
+Graviton Pro Product
+Graviton Pro is a comprehensive product for small lenders. some of
+including –
+Commercial vehicle loans Loans against property
+Personal loans Daily loans
+Gold loans Business loans
+Eye Care Leaders Website
+Using HTML, CSS, and JavaScript to build user-friendly web
+website.
+Contributed to a healthcare management system, enhancing user
+experience and implementing various front-end features.
+Contributed to e-commerce web application with Angular.
+

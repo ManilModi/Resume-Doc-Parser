@@ -1,0 +1,65 @@
+------Other------------
+JIGYASA YADAV
+Indore, Madhya Pradesh
+ +91 9926179921
+# jigyasayadav1903@gmail.com
+ï www.linkedin.com/in/jigyasa-yadav-153031211
+
+------Education------------
+Sushila Devi Bansal college of technology
+August 2019 - May 2023
+Bachelor of Technology in Computer Science(CGPA of 8.60)
+Madhya Pradesh, India
+St. Mary’s Higher Secondary School MHOW
+March 2018 - May 2019
+PCM(76 precentage)
+Madhya Pradesh, India
+
+------Skills------------
+Technologies/Frameworks: Java, Spring Boot, Hibernate,JPA, Spring Security, Microservices, JSP/Servlets, Junit,
+HTML/CSS, Angular(basic).
+Databases: PostgreSQL, MySQL, MongoDb
+Tools: Ecllipse, VScode, dbeaver, Git
+
+------Experience------------
+Brainvire Infotech inc.[Associate Software Engineer]
+June 2023 – Present
+Ahmedabad,Gujarat, India
+• Developed and maintained the Projects, an internal tool for community communication, feedback, and role management.
+Implemented and tested APIs, and resolved issues on both backend and Angular front-end related to API calls,
+enhancing overall functionality and user experience
+• Wrote multiple API’s for the team which returned the extracted data from mySql db by doing some computations on the
+basis of business requirement. These API’s made the system more feature rich.
+• Design, implement, and optimize server-side logic and APIs using Java, ensuring efficient data processing and seamless
+integration with front-end components.
+• Participated in code reviews to ensure adherence to coding standards and best practices. Assisted in troubleshooting and
+resolving issues in existing codebase.Maintained thorough documentation of code, designs, and technical processes.
+• Worked closely with senior developers to learn and adapt to new technologies and industry best practices.
+
+------Projects------------
+JBS Project | Java Spring Boot, Angular, MySQL |
+• Skeleton Project is used to communicate with the community people and share your feedback, suggestion, and rating
+with the community people.
+• We can also give the users different roles and permission for that user
+• Worked on implementing the APIs for the Skeleton Project development.
+• Worked on fixing the issues testing the features in the project.
+Hotel Management | Java Spring Boot, MySQL |
+• The Hotel Management System is a Java- based application designed to streamline and automate various aspects of hotel
+operations.
+• This system provides a user-friendly interface for hotel staff to manage daily tasks efficiently and enhances the overall
+guest experience.
+• User Authentication and Authorization • Room Management • Guest Services • Billing and
+Invoicing • Inventory Management • Staff Management • Reporting and Analytics • Feedback and
+Reviews • Notifications and Alerts.
+
+------Achievements------------
+• Recieved the certificate of full atendance for 2 years consecutively.
+• Ranked Second position under sahodya balvigyan held during school days.
+• Participated in the International Science Olympiad competition and ranked third in the school.
+
+------Certifications------------
+• Completed comprehensive training in Core Java and Advanced Java. Developed proficiency in fundamental
+programming concepts, object-oriented programming, and advanced Java features. Acquired hands-on experience in
+Java application development and problem-solving techniques.Demonstrated ability to apply Java principles to develop
+efficient and scalable solutions.
+

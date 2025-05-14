@@ -1,0 +1,56 @@
+------Other------------
+MD
+SUMMARY
+Dedicated and detail-oriented Java Spring Boot Developer with over
+1 year of experience in designing, developing, and deploying web
+applications. Proficient in Java, Spring Boot, and RESTful APIs.
+Adept at problem-solving and debugging, with a strong ability to
+learn and adapt to new technologies. Demonstrates excellent
+teamwork and communication skills, ensuring effective
+collaboration with cross-functional teams to deliver high-quality
+software solutions.
+
+------Experience------------
+Software Developer , Feb 2023 - Aug 2024
+Developed and maintained web applications using Java and Spring
+Boot, ensuring high performance and scalability.
+Designed and implemented RESTful APIs to support front-end
+functionalities and integrated third-party services. Worked on
+database schema design and optimized queries for better
+performance using MySQL and PostgreSQL. Collaborated with front-
+end developers to integrate user-facing elements with server-side
+logic.
+Participated in code reviews and contributed to improving coding
+standards and best practices. Assisted in deploying applications to
+AWS and managing cloud infrastructure.
+Java Full Stack Mar 2022 - Jan 2023
+Gained proficiency in Java programming language, mastering core
+concepts, and advanced features. Conducted comprehensive project
+analyses, identifying and rectifying discrepancies in engineering
+designs.
+Received comprehensive training in Spring Boot for enterprise-level
+Java application development. Learned to build RESTful APIs and
+microservices, focusing on efficient and scalable backend
+development practices.
+
+------Projects------------
+E-COMMERCE PLATFROM WITH ADMIN PANEL
+Implemented an E-commerce platform crafting RESTful APIs for
+seamless backend communication. On the frontend, meticulously
+designed the database schema to optimize data storage and retrieval
+efficiency Built Analytics for tools where admin can see their sales,
+orders, and sessions. Utilized React Native to build a versatile
+admin panel accessible across multiple platforms.
+
+------Skills------------
+Programming Languages: Java,
+JavaScript, SQL
+Frameworks & Libraries: Spring Boot, Spring MVC, Hibernate, JPA
+Web Technologies: ReactJs ,React Native HTML, CSS
+Database Management: MySQL, MongoDB
+Version Control: Git, GitHub
+Tools & Platforms: IntelliJ IDEA, Eclipse, Maven Cloud Services:
+AWS (EC2, S3, Litesail)
+Other: RESTful APIs, Microservices, Unit
+Testing (JUnit), Agile Methodologies
+

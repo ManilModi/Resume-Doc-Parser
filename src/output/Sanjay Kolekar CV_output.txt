@@ -1,0 +1,180 @@
+Sanjay
+EXPERIENCE SUMMARY
+Over 7+ years of experience as a Senior Java Full Stack Developer
+with expertise in Java/J2EE, Spring Boot, and various web
+technologies.
+In-depth understanding of Design Patterns, data structures, and
+algorithms.
+Hands-on experience in JAVA, Spring framework, including Spring
+IOC, Spring Security, Spring Boot, and Spring Cloud.
+Proficient in UI development using Bootstrap, JavaScript Libraries,
+and Angular.
+Strong knowledge of databases like Oracle, MySQL, and SQL Server.
+Strong knowledge of cloud platforms like Docker, and Kubernetes,
+along with experience in Agile and Scrum methodologies.
+Experience in Agile software development process, Test Driven
+Development and Scrum.
+Excellent oral and written communication and interpersonal skills.
+Involves in understanding functional specifications and developing
+creative solutions to meet
+business requirements.
+Ability to learn and adapt quickly to the emerging new technologies
+KEY COMPETENCIES
+
+BACK END
+Java, Java8
+Spring Boot, Spring framework
+JPA, Hibernate
+Restful web services
+Micro services, Java messaging Services
+APPLICATION / WEB SERVERS
+Apache Tomcat, Glassfish
+Web Application Server
+Eclipse Jetty web server
+DevOps
+Docker, Openshift, IBM UDeply
+Teamcity, SonarQube
+FRONT END
+
+Angular 2+,
+JavaScript, ES6/ES2015
+Bootstrap, HTML, CSS3
+JSON, XML
+SDLC
+Agile
+JIRA, Confluence
+SOLID Principles
+GIT, BitBucket, GitHub, Source tree
+DATABASES
+MySQL, Oracle, SQL Server
+IDE/ TOOLS
+IntelliJ, Eclipse, STS, VS Code
+SQL Developer, SQL server Management Studio
+
+TESTING
+JUNIT, Mockito
+Wire Mock
+PROJECT SUMMARY
+PROJECT: 3D SECURITY DURATION: APR 2023– TILL DATE
+DESCRIPTION: 3DS is an authentication application step for online
+payments to add additional security layer for credit and debit card
+transactions. In 3DS security is provided using different challenge
+journeys like SMS OTP, EMAIL OTP, Push Notification, Sim swap
+check and Mobile App. For auditing GASS and Lynx separate portal
+are used. For Traffic monitoring Kibana application helps along
+with Dynatrace.
+ROLE: Senior Software Engineering
+RESPONSIBILITIES:
+Design and implementation of the microservices FEM-MQ-Chores to
+listen the messages from the rabbit messaging queue and process
+them asynchronously using scheduler.
+Implementation of microservice to send the SMS OTP, EMAIL OTP
+and sim swap check
+Go live production support and 24/7 available for critical issues
+Collaborated closely with clients to understand requirements,
+gather feedback, and provide technical consultancy, ensuring
+
+alignment of deliverables with business objectives.
+OHE3 Migration from java 8 to java 17
+Client: SEB Group
+PROJECT: UNIT LINK MODULE DURATION: JAN 2022 – APR 2023
+DESCRIPTION: This is bank insurance and investment web
+application for trading funds, currency exchange, manages funds
+and portfolios for 3 countries (Norway, Sweden and Denmark),
+update external funds data from mutual fund exchange like fund
+prices and its holdings, dividend allocation and generate the
+reconciliation report.
+ROLE: Senior Software Engineering
+RESPONSIBILITIES:
+Design and implementation of the 99.99% up time REST API for the
+currency trading, fund management and dividend distribution
+Four eye principal implementation in a separate microservice using
+spring boot
+Implementation of the auto scheduled quartz job for dividend
+distribution and user details export to other application
+Design and Implementation of the reactive forms for the fund
+management and dividend functionality
+Production critical issue support and bug fixing
+Coordinated with Mutual Fund Exchange and Trading Lifecycle
+Management teams in identification customer requirements. As a
+result business requirements have been captured and validated
+before the active phase of development
+
+Technical/Functional documentation in confluence portal to define
+the system components and implementation strategies
+Used GIT, Bitbucket for version control tool for rebasing and
+merging branches
+Client: Wells Fargo
+PROJECT: ACCOUNT SERVICES DURATION: JAN-2021 TO
+JAN-2022
+DESCRIPTION: Banking application to publish a micro service to
+send the real time posting restriction notifications on accounts that
+is Post No Credit, Post No Debit, Frozen, Blocked etc. to the
+downstream applications for the scoped countries.
+ROLE: Senior Software Engineer
+RESPONSIBILITIES:
+Design and Implementation of listeners and Java messaging services
+to receive notifications
+Implementations of asynchronous services to persist all received
+notifications
+Implementation of quartz recovery job which is common across
+multiple pods in open shift docker containerization
+Integration with other micro services to get the active account
+status.
+Setting up the deployment environment pods, configuring the
+template and parameter files for the application deployment
+Providing maintenance support and bug fixing
+Used GIT, BitBucket for version control tool for merging branches
+and used Source tree to solve conflicts.
+
+Client: PSA French client
+PROJECT: PICTOTHEQUE APPLICATION DURATION: SEP 2019 TO
+JAN 2021
+DESCRIPTION: This is an e-commerce web based application which
+manages PICTO items life cycle and allow user to perform activities
+like creating, deleting, filtering, searching, exporting into the pdf
+file, adding to the cart, adding to the favourite, downloading with
+their appropriate selected format.
+ROLE: Software Engineer
+RESPONSIBILITIES:
+Involved in designing and implementation of REST web services
+Designing and implementation of Entity classes using hibernate
+Test cases using junit
+Resolve the issues during the development phase and monitoring
+the logs for any kind of exceptions
+Attending status call with client plus support during the deployment
+and after the deployment
+Client: Komatsu
+PROJECT: OASIS/PLM Connector Tool DURATION: OCT-2018 TO
+SEP-2019
+DESCRIPTION: OASIS/PLM is the dedicated solution of OASIS for
+PLM. It is a statistical calculation tool used to conform and validate
+design criteria of technical requirements. Tolerance attributes of
+related requirements are provided as input data and, based on an
+
+input mathematical formula, computations are executed and
+retrieved to PLM as output data for each requirement involved in
+the formula.
+ROLE: Software Engineer
+RESPONSIBILITIES:
+Involved in designing and development of entity classes using
+hibernate
+Involved in implementation of different formulas
+Sending input data to SCILAB for computation
+Attending status call with client plus support during the deployment
+and after the deployment
+Involved in report generation for PLM
+Developed REST services
+Client: PSA French
+PROJECT: Transition Engine DURATION: APR-2017 TO OCT-2018
+DESCRIPTION: This is the standalone application developed for
+PLM parts management and batch execution based on next launch
+date criteria.
+ROLE: Software Engineer
+RESPONSIBILITIES:
+Involved in designing and development of UI
+Involved in implementation of parts searching business logic
+
+Developed next launch date business logic for batch execution
+Analysis and fixing bugs and defects
+

@@ -1,0 +1,31 @@
+[
+    {
+        "Name":"JIGYASA YADAV",
+        "Designation":"Brainvire Infotech inc.[Associate Software Engineer]",
+        "Skills":[
+            "Technologies\/Frameworks: Java",
+            "Spring Boot",
+            "Hibernate",
+            "JPA",
+            "Spring Security",
+            "Microservices",
+            "JSP\/Servlets",
+            "Junit",
+            "HTML\/CSS",
+            "Angular(basic).",
+            "Databases: PostgreSQL",
+            "MySQL",
+            "MongoDb",
+            "Tools: Ecllipse",
+            "VScode",
+            "dbeaver",
+            "Git"
+        ],
+        "Company":"Brainvire Infotech inc.[Associate Software Engineer]",
+        "Projects":[
+            "JBS Project | Java Spring Boot, Angular, MySQL |\n\u2022 Skeleton Project is used to communicate with the community people and share your feedback, suggestion, and rating\nwith the community people.\n\u2022 We can also give the users different roles and permission for that user\n\u2022 Worked on implementing the APIs for the Skeleton Project development.\n\u2022 Worked on fixing the issues testing the features in the project.\nHotel Management | Java Spring Boot, MySQL |\n\u2022 The Hotel Management System is a Java- based application designed to streamline and automate various aspects of hotel\noperations.\n\u2022 This system provides a user-friendly interface for hotel staff to manage daily tasks efficiently and enhances the overall\nguest experience.\n\u2022 User Authentication and Authorization \u2022 Room Management \u2022 Guest Services \u2022 Billing and\nInvoicing \u2022 Inventory Management \u2022 Staff Management \u2022 Reporting and Analytics \u2022 Feedback and\nReviews \u2022 Notifications and Alerts."
+        ],
+        "Achievements":"\u2022 Recieved the certificate of full atendance for 2 years consecutively.\n\u2022 Ranked Second position under sahodya balvigyan held during school days.\n\u2022 Participated in the International Science Olympiad competition and ranked third in the school.",
+        "Total Experience":"2 years"
+    }
+]

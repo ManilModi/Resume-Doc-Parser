@@ -1,0 +1,67 @@
+------Other------------
+Mruga Shah
+ +91-9328065729
+# shahmruga10@gmail.com
+ï linkedin.com/in/mruga1011
+§ github.com/mruga1011
+
+------Skills------------
+Languages & Database: Java, MongoDB, MySQL, HTML, CSS, Javascript, JSON
+FrameWorks/Libraries: Spring boot, Spring MVC, Spring Security, JPA, ReactJS, Bootstrap,gRPC, GraphQl,
+Thymeleaf, REST API, Amazon SQS, JUnit, Mockito
+Tools: VS Code, Git & GitHub, IntelliJ IDEA, Eclipse, Grafana, Source Tree, Spring Tools Suits Postman, MySQL
+Workbench, MongoDB Compass, S3 Bucket, Maven, JIRA
+
+------Experience------------
+Junior Back-end Developer
+April 2024 – June 2024
+Quantum Dynamics
+France
+• Contributed to a payment application by utilizing Java, Spring Boot, and MongoDB for backend development.
+• Optimized MongoDB queries using MongoTemplate, leading to a 40% improvement in data retrieval and enhancing
+overall application performance.
+• Engineered the Billing-Pricing and Virtual IBAN modules using Java, gRPC, and GraphQL, reducing manual
+processing time by 30%
+• Architected the Notification module, utilizing a scheduler and Amazon SQS to create a service that automatically
+triggers emails, reducing manual workload by over 30+ hours
+• Automated a CSV file processing, streamlining upload to a S3 bucket, and download it to the local system.
+Associate Software Developer
+February 2023 – March 2024
+Jab Companies
+Gandhinagar, Gujarat
+• Leveraged strong proficiency in Java, MySQL, and Object-Oriented Programming principles
+• Utilized Spring MVC with Thymeleaf to enhance the web application’s responsiveness, improving user engagement by
+25%
+• Enlarged a secure JWT authentication module, ensuring robust access control, which resulted in a 50% reduction in
+unauthorized access attempts.
+
+------Projects------------
+Ecommerce-Website | Java, Spring Boot, MySQL, Thymeleaf
+• Created a microservice-based website, integrating 10+ interconnected services
+• Seamlessly integrated front-end technologies (HTML, CSS, JavaScript, Thymeleaf) with back-end (Java, Spring
+Boot, MySQL, Apache Tomcat)
+TextUtils | ReactJS, Bootstrap
+• Developed and deployed a text manipulation website using ReactJS.
+• Applied React concepts like hooks, props, state, and react-router to enhance 40% maintainability and scalability.
+Library Management System | Java, Spring Boot, MySQL
+• Built a data management system using Java and MySQL to manage over 50,000 records.
+• Implemented CRUD operations and JWT Token user authentication, increasing 45% Security
+
+------Education------------
+Gujarat Technological University
+Aug. 2019 – May 2023
+Bachelors of Engineering in Computer Engineering - CGPA : 8.87/10.0
+Ahmedabad, Gujarat
+
+------Certifications------------
+Java(Basic) - HeackerRank
+SQL(Basic) - HeackerRank
+Full Stack Application Spring Boot and React - Udemy
+The Web Developer Bootcamp - Udemy
+Leadership / Extracurricular Activities
+IEEE Silver Oak University Student Branch
+January 2021 - July 2023
+• Led as Webmaster, driving a 160% increase in membership retention, engagement, and growth.
+• Directed a 50+ student team to develop the student branch website and coordinated 50+ events, attracting over 70,000
+participants. Contributed to 16+ national and international events.
+

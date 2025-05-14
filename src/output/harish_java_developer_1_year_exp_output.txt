@@ -1,0 +1,67 @@
+HARISH CHILAKALA
+Hyderabad, Telangana 500020 | (91) 6305431266 |
+harishchilakala2015@gmail.com
+linkedin.com/in/harish-972413305
+PROFESSIONAL SUMMARY
+Dynamic and results-oriented software engineer with over 1 year of
+experience in developing robust software applications using Java,
+J2EE, and Spring Boot. Adept at implementing microservices
+architectures and working within Google Cloud Platform
+environments. Demonstrates strong problem-solving abilities and
+analytical skills with a keen interest in emerging technologies.
+Proven track record in ORM tools like Hibernate and Spring Data
+JPA, and proficient in REST API development and unit testing.
+Known for excellent teamwork, high client satisfaction, and the
+capability to deliver projects under tight deadlines. Highly
+motivated and capable of working both independently and
+collaboratively.
+SKILLS AND ACCOMPLISHMENTS
+Technical Skills:
+Java Technologies: Java 8, Spring Boot, Spring Cloud, OpenFeign
+Operating Systems: Windows
+Databases: MySQL, Database Design, SQL Queries, Redis
+ORM Tools: Hibernate, Spring Data JPA, Spring JDBC
+Application & Web Server: Tomcat
+Development Tools: Eclipse, Maven
+Testing & Tools: JUnit, Mockito
+
+Architecture and APIs: RESTful APIs, Microservices
+Cloud & Messaging: GCP, Kafka
+Security: RSA, Spring Security
+Accomplishments:
+Implemented Microservices: Developed and deployed a scalable
+microservices architecture for an e-commerce platform, improving
+system efficiency and reducing deployment times by 30%.
+Enhanced API Performance: Optimized REST API endpoints for a
+marketplace solution, leading to a 20% increase in response speed
+and improved overall user experience.
+Successful Project Delivery: Delivered critical project tasks for high-
+profile clients under tight deadlines, achieving a client satisfaction
+rate of over 95%.
+WORK EXPERIENCE
+Back-end Java Developer IBM India Pvt Ltd, Bangalore June 2023 –
+Present
+Project: Panera Client: Panera, US Industry: E-Commerce Duration:
+December 2023 – Present Environment: Spring Boot, Spring Data,
+Spring Cloud, Kafka, Java 8, GCP, STS
+Responsibilities:
+Developed model layers using JPA Repository in Spring Data.
+Exposed REST API endpoints and wrote JUnit test cases for various
+components.
+Managed project tasks within strict deadlines, ensuring high-quality
+delivery.
+
+Project: eBird - FEP Client: Airbus, France Industry: Aerospace
+Duration: June 2023 – November 2023 Environment: Java, EJB 3.0,
+Hibernate, JPA, REST Webservices, WMB, Oracle 9i, Windows, RSA,
+Eclipse
+Responsibilities:
+Gathered requirements and designed system specifications.
+Developed and supported applications, including user acceptance
+and integration testing.
+Enhanced code functionality and managed client relationships
+effectively.
+EDUCATION
+M.sc in Computer Science Kakatiya University Graduation Year:
+2022
+
